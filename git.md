@@ -22,3 +22,9 @@
 
 '.gitignore': this file lets you set which lets you set which files and folders are ignored by git (create-creact app makes this for you)
 
+Functions don't have states and are simpler than Classes
+
+Async is required to use await
+
+Google's language is "materials"
+
